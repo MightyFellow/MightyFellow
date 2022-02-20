@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MightyFellow
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Technologies, Video Games and Cricket. 
 - 🌱 I’m currently learning ReactJS, NextJS and NodeJS
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https://twitter.com/DeepakCL3 
